@@ -4,9 +4,6 @@ from .logic import *
 from .optimization import minimize
 from . import extras
 from . import testing
-from .version import version as __version__
-
-from .version import version as __version__
 
 
 def test():
